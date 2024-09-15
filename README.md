@@ -1,2 +1,2 @@
-# bdm
+# BDM
 Business Data Management Project
